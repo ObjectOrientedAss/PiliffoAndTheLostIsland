@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8451bf545fe127a4cb62ea699fb1fdad, type: 3}
+  m_Name: RefiniteRagRecipe
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 1950762914181035044, guid: b4cab03e7d0580d4da606eba91bc510e, type: 3}
+  RecipeName: RefiniteRags
+  OutputQuantity: 1
+  Acquired: 1
+  Requirements:
+  - ItemType: 2
+    NeededQuantity: 3

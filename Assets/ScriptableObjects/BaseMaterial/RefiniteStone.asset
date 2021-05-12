@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea2994d00bfe3845905026d3770fa06, type: 3}
+  m_Name: RefiniteStone
+  m_EditorClassIdentifier: 
+  Name: RefiniteStone
+  Description: A stone ready to be used
+  CanStack: 1
+  MaxStack: 50
+  MinSpawnQuantity: 1
+  MaxSpawnQuantity: 1
+  IsEquippable: 0
+  Prefab: {fileID: 2844490436081385268, guid: 0342d83fdb4759340baa3c2ab5728bd4, type: 3}
+  UIRepresentation: {fileID: 21300000, guid: 134fa5b09e4e3864aa8ff17828100333, type: 3}

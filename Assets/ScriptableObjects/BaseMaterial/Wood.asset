@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea2994d00bfe3845905026d3770fa06, type: 3}
+  m_Name: Wood
+  m_EditorClassIdentifier: 
+  Name: Wood
+  Description: Wood...
+  CanStack: 1
+  MaxStack: 100
+  MinSpawnQuantity: 10
+  MaxSpawnQuantity: 20
+  IsEquippable: 0
+  Prefab: {fileID: 8702323036752064465, guid: e99953b824c8a2646986798e65e7344e, type: 3}
+  UIRepresentation: {fileID: 21300000, guid: a83df6b6cef841e4791b63af112f3eff, type: 3}

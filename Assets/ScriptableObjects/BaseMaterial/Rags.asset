@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea2994d00bfe3845905026d3770fa06, type: 3}
+  m_Name: Rags
+  m_EditorClassIdentifier: 
+  Name: Rags
+  Description: Nasty sweaty cloths
+  CanStack: 1
+  MaxStack: 100
+  MinSpawnQuantity: 5
+  MaxSpawnQuantity: 10
+  IsEquippable: 0
+  Prefab: {fileID: 1479900563356883743, guid: 592c89dd08eb19b4281c60462e0bb8fb, type: 3}
+  UIRepresentation: {fileID: 21300000, guid: 0ff36db01658fad47b477c8542bf8c1c, type: 3}
